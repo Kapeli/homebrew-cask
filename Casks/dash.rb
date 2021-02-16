@@ -3,7 +3,7 @@ cask "dash" do
     version "4.6.7"
     sha256 "e2b5eb996645b25f12ccae15e24b1b0d8007bc5fed925e14ce7be45a2b693fb6"
   else
-    version "6.0.0"
+    version "6.0.0,960"
     sha256 "206933dbcfe908ff63fcf31ced1eabafb6de5fb810427efce8dc21d7c63f46b2"
   end
 
